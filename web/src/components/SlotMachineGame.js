@@ -6,7 +6,7 @@ const SlotMachineGame=()=>{
     const[ctime,setCtime]=useState(newTime);
 
 const UpdateTime=()=>{
-//time =ne
+//time =
 setCtime(newTime);
 };
 
